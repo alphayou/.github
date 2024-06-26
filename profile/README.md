@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Alpha You](https://github.com/alphayou) is a collection of some of [Shizuku](https://github.com/ifshizuku)'s personal projects. Larger product projects will be grouped under this organization, and some future independently developed product projects will be documented and carried out here.
+[Alpha You](https://github.com/alphayou) is a collection of some of [Fuon](https://github.com/fuon7)'s personal projects. Larger product projects will be grouped under this organization, and some future independently developed product projects will be documented and carried out here.
 
 The name Alpha You comes from the [KAF](https://www.youtube.com/@virtual_kaf) song [あるふぁYOU](https://www.youtube.com/watch?v=aUwdJ9evnBk), also, Alpha symbolizes the beginning in development, which is what I expect from this project.
 
