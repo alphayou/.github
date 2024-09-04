@@ -1,4 +1,4 @@
-# Alpha You's Profile
+### Alpha You's Profile
 
 Check the organization homepage here: [Alpha You](https://github.com/alphayou).
 
