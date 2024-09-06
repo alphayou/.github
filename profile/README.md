@@ -1,4 +1,4 @@
-![Alpha You Heading](https://github.com/user-attachments/assets/22e7118e-e383-40f8-a3bb-07f8b72ec420)
+![Alpha You Banner](https://github.com/user-attachments/assets/729a19bd-2128-4820-92c5-0cb9350b1897)
 
 ### Introduction
 
