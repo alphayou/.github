@@ -2,7 +2,7 @@
 
 ### Introduction
 
-[Alpha You](https://github.com/alphayou) is a _personal_ organization that houses some of [Fuon](https://github.com/fuon7)'s _individual_ projects. All projects under Alpha You will be fully open-sourced under specific OSS licenses, fostering strong connections with the community and growing alongside everyone involved. We hope for smooth sailing ahead!
+[Alpha You](https://github.com/alphayou) is a _personal_ organization that houses some of [Fuon](https://github.com/asfuon)'s _individual_ projects. All projects under Alpha You will be fully open-sourced under specific OSS licenses, fostering strong connections with the community and growing alongside everyone involved. We hope for smooth sailing ahead!
 
 The name of the organization is from [KAF](https://www.youtube.com/@virtual_kaf)'s song [あるふぁYOU](https://www.youtube.com/watch?v=aUwdJ9evnBk), which symbolizes new beginnings and a new generation. Additionally, the word "Alpha" is often used at the start of software pre-releases, capturing the initial excitement and drive behind Alpha You.
 
