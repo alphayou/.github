@@ -1,4 +1,4 @@
-![Alpha You Banner](https://github.com/user-attachments/assets/729a19bd-2128-4820-92c5-0cb9350b1897)
+![Heading](https://github.com/user-attachments/assets/041007b0-1616-44bc-a8ff-3b1b62710a83)
 
 ### Introduction
 
@@ -10,4 +10,4 @@ Overall, the projects within Alpha You are distinctly **opinionated** and reflec
 
 ### Credits
 
-The texts of heading & logo are based on the font [Playwrite Colombia](https://fonts.google.com/specimen/Playwrite+CO), modified under [OFL](https://openfontlicense.org/).
+The texts of heading & logo are based on the font [Playwrite Česko](https://fonts.google.com/specimen/Playwrite+CZ), and the image is from [unsplash@brave4_heart](https://unsplash.com/@brave4_heart).
